@@ -13,11 +13,10 @@ To install the game, follow these steps:
 
 ## Gameplay
 
-The objective of the game is to shoot down all of the invading aliens before they reach the bottom of the screen. The player controls a spaceship at the bottom of the screen and can move left or right using the arrow keys. The player can shoot lasers at the aliens by pressing spacebar.
+The objective of the game is to shoot down all of the invading aliens before they collide with the player's spaceship. The player controls a spaceship at the bottom of the screen and can move left or right using the arrow keys. The player can shoot lasers at the aliens by pressing spacebar.
 
-The aliens move back and forth across the screen, gradually moving closer to the player's spaceship with each pass. If an alien reaches the bottom of the screen, it's game over.
-
-The player has three lives, which are represented by hearts at the top of the screen. If an alien collides with the player's spaceship, they lose a life.
+The aliens move back and forth across the screen, gradually moving closer to the player's spaceship with each pass. 
+If an alien collides with the player's spaceship, it's game over.
 
 ## Contributing
 
